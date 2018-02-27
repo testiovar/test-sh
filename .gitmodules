@@ -1,0 +1,4 @@
+[submodule "testiovar/test-sh"]
+	path = testiovar/test-sh
+	url = git@github.com:testiovar/test-sh.git
+	branch = master
